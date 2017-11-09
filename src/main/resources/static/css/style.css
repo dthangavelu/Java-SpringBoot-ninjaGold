@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+
+body{
+	padding: 25px;
+}
+
+.main{
+	display: flex;	
+}
+
+.category{
+	border: 1px solid black;
+	padding: 10px;
+	width: 50%;
+	height: auto;
+	margin: 10px;
+}
+
+.acitivities{
+	border: 1px solid black;
+}
+
+.red{
+	color: red;
+	font-weight: bold;
+}
+
+.green{
+	color: green;
+	font-weight: bold;
+}
